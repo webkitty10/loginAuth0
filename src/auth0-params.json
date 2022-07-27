@@ -1,0 +1,9 @@
+{
+  "domain": "dev-x409h4sz.us.auth0.com",
+  "clientId": "nsJJIorrjlRirC65o1U8WsemtST7ottc",
+  "callbackUrl": "http://localhost:3000",
+  "realm": "LoginDB",
+  "apiUrl": "http://localhost:3001",
+  
+  "scope": "openid email update:email update:password"
+}
